@@ -1,0 +1,1 @@
+</main><footer><div><a class="logo" href="index.php">◒ mintmarket</a><p>Everyday essentials, simply shopped.</p></div><p>© <?=date('Y')?> Mintmarket · Educational demo project</p></footer><script src="<?=isset($adminPage)?'../':''?>assets/app.js"></script></body></html>
